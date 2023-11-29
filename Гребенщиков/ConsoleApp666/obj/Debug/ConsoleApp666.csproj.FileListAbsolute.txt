@@ -1,0 +1,7 @@
+K:\Гребенщиков\ConsoleApp666\bin\Debug\ConsoleApp666.exe.config
+K:\Гребенщиков\ConsoleApp666\bin\Debug\ConsoleApp666.exe
+K:\Гребенщиков\ConsoleApp666\bin\Debug\ConsoleApp666.pdb
+K:\Гребенщиков\ConsoleApp666\obj\Debug\ConsoleApp666.csproj.AssemblyReference.cache
+K:\Гребенщиков\ConsoleApp666\obj\Debug\ConsoleApp666.csproj.CoreCompileInputs.cache
+K:\Гребенщиков\ConsoleApp666\obj\Debug\ConsoleApp666.exe
+K:\Гребенщиков\ConsoleApp666\obj\Debug\ConsoleApp666.pdb
