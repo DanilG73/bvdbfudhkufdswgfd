@@ -1,0 +1,7 @@
+D:\Гребенщиков\ConsoleApp777\bin\Debug\ConsoleApp777.exe.config
+D:\Гребенщиков\ConsoleApp777\bin\Debug\ConsoleApp777.exe
+D:\Гребенщиков\ConsoleApp777\bin\Debug\ConsoleApp777.pdb
+D:\Гребенщиков\ConsoleApp777\obj\Debug\ConsoleApp777.csproj.AssemblyReference.cache
+D:\Гребенщиков\ConsoleApp777\obj\Debug\ConsoleApp777.csproj.CoreCompileInputs.cache
+D:\Гребенщиков\ConsoleApp777\obj\Debug\ConsoleApp777.exe
+D:\Гребенщиков\ConsoleApp777\obj\Debug\ConsoleApp777.pdb
